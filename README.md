@@ -102,5 +102,5 @@ Deforestation is a significant global issue, impacting ecosystems, biodiversity,
 
 ## Contributors
 Author: Ntembeko Mhlungu
-Contact: [Email](ntembekomhlungu1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ntembeko-mhlungu-6413a91bb/) | [GitHub] (https://github.com/Ntembeko-Ngwane)
+Contact: [Email](ntembekomhlungu1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ntembeko-mhlungu-6413a91bb/) | [GitHub](https://github.com/Ntembeko-Ngwane)
 
